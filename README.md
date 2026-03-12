@@ -16,7 +16,14 @@ Master's student in Analytics and AI at ESMT Berlin with a background in Interna
 
 ## 📂 Featured Projects
 
-> Coming soon...
+### 🚚 Data-Driven Logistics Optimization
+Led a logistics optimization project for a dairy distributor in the Greater Taipei region. Analyzed 7–9 months of historical order data, GPS records, and store-level purchase frequency to redesign delivery routes and reduce transportation costs under fixed fleet constraints. Applied clustering (K-Means and Hierarchical), Vehicle Routing Problem (VRP) modeling, and scenario-based simulation to propose three adoption strategies.
+
+### 📺 OTT Streaming Consumer Preference Study
+Conducted a Choice-Based Conjoint (CBC) analysis to understand what drives streaming subscription decisions. Designed a survey with five key attributes including price, ad experience, video quality, simultaneous streams, and content type. Built and validated a Multinomial Logit Model (MNL) using R to estimate willingness-to-pay and predict consumer choices.
+
+### 🔬 Causal Inference: Job Training Program Evaluation
+Analyzed the National Supported Work (NSW) program using real experimental data to estimate the causal effect of job training on earnings. Applied the potential outcomes framework, difference-in-means estimation, and balance table analysis to evaluate the Average Treatment Effect (ATE). Discussed threats to causal validity and extensions using causal forests.
 
 ---
 
