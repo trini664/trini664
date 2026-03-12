@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Trini Fang 👋
 
-<!--
-**trini664/trini664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-hsun-trini-fang)
 
-Here are some ideas to get you started:
+Master's student in Analytics and AI at ESMT Berlin with a background in International Business and experience working in fast-paced digital environments. I am particularly motivated by ambiguous, early-stage problems where there is no clear structure yet. I enjoy breaking complex ideas into concrete analytical questions and building data-driven frameworks to evaluate whether and how a business opportunity should move forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics-4A90D9?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F5A623?style=for-the-badge)
+![Data-Driven Decision Making](https://img.shields.io/badge/Data--Driven%20Decision%20Making-7ED321?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+
+> Coming soon...
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me on LinkedIn above!
